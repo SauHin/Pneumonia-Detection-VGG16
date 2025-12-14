@@ -16,8 +16,8 @@ The project consists of two main parts:
 Due to GitHub's file size limits, the trained model file (`model_pneumonia_vgg16.h5`) is hosted externally. 
 
 **To run this application locally, you must download the model:**
-1.  [**Download Model Here**](LINK_GOOGLE_DRIVE_ANDA_DISINI) (Size: ~500MB)
-2.  Place the downloaded `.h5` file inside the root directory of this project (or inside a `models/` folder if configured).
+[[**Download Model Here**]](https://drive.google.com/file/d/1yVRtws8oPglN_h3JKpBooY-sd98xJ884/view?usp=sharing)
+
 
 ## 🚀 Features
 * **Transfer Learning:** Uses pre-trained VGG16 weights for feature extraction.
